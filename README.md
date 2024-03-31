@@ -1,0 +1,1 @@
+This repository contains a simple calculator made using HTML, CSS and inline JS.
